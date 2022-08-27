@@ -1,0 +1,19 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.row-cols-xl-3 .col {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.p-4 {
+  position: sticky;
+  top: 15vh;
+}
+
+video {
+  border-radius: 20px;
+}
+
